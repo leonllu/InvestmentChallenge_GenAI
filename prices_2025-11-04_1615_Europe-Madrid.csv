@@ -1,0 +1,18 @@
+Ticker,Name,Sector,Region,Native Ccy,Price (native),Price EUR,Price TS (local),FX Pair,FX TS (local),Yahoo URL
+AMD,AMD,Semiconductors,US,USD,255.43,222.4795,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/AMD
+AMZN,Amazon,Cloud/E-commerce,US,USD,254.1,221.3211,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/AMZN
+GOOGL,Alphabet (Google),AI/Search,US,USD,280.22,244.0716,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/GOOGL
+META,Meta,Social Media/AI,US,USD,637.655,555.3975,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/META
+MSFT,Microsoft,Cloud/AI,US,USD,512.91,446.7446,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/MSFT
+NVDA,NVIDIA,AI Hardware,US,USD,202.375,176.2686,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/NVDA
+TSLA,Tesla,EV/Autonomous,US,USD,459.89,400.5642,2025-11-04 16:15,EURUSD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/TSLA
+0700.HK,Tencent,Gaming/Cloud,HK,HKD,629.0,70.4939,2025-11-04 01:00,EURHKD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/0700.HK
+1810.HK,Xiaomi,Consumer Tech,HK,HKD,43.42,4.8662,2025-11-04 01:00,EURHKD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/1810.HK
+3690.HK,Meituan,E-commerce/Delivery,HK,HKD,99.9,11.1961,2025-11-04 01:00,EURHKD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/3690.HK
+9988.HK,Alibaba,E-commerce/Cloud,HK,HKD,159.0,17.8196,2025-11-04 01:00,EURHKD=X,2025-11-04 16:15,https://finance.yahoo.com/quote/9988.HK
+6758.T,Sony,Entertainment/Tech,JP,JPY,4295.0,24.3788,2025-11-04 01:00,EURJPY=X,2025-11-04 16:15,https://finance.yahoo.com/quote/6758.T
+6861.T,Keyence,Automation/Robotics,JP,JPY,56520.0,320.8119,2025-11-04 01:00,EURJPY=X,2025-11-04 16:15,https://finance.yahoo.com/quote/6861.T
+7203.T,Toyota,Automotive/EV,JP,JPY,3155.0,17.908,2025-11-04 01:00,EURJPY=X,2025-11-04 16:15,https://finance.yahoo.com/quote/7203.T
+9984.T,SoftBank,Tech Investment,JP,JPY,25160.0,142.8101,2025-11-04 01:00,EURJPY=X,2025-11-04 16:15,https://finance.yahoo.com/quote/9984.T
+EQQQ.DE,Invesco EQQQ Nasdaq-100,Tech ETF,EU,EUR,548.0,548.0,2025-11-04 16:15,N/A,N/A,https://finance.yahoo.com/quote/EQQQ.DE
+VWCE.DE,Vanguard FTSE All-World,Global ETF,EU,EUR,145.54,145.54,2025-11-04 16:15,N/A,N/A,https://finance.yahoo.com/quote/VWCE.DE

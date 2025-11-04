@@ -1,7 +1,8 @@
 date,action,ticker,shares,price,total,cash_after,reason,ai_model
-2025-11-04 16:15:00+01:00,BUY,AMD,1,222.4795,222.4795,777.5205,Semiconductor/AI computing,Gemini Advanced
-2025-11-04 16:15:00+01:00,BUY,AMZN,1,221.3211,221.3211,556.1994,Cloud & e-commerce leader,Gemini Advanced
-2025-11-04 16:15:00+01:00,BUY,0700.HK,3,70.4939,211.4817,344.7177,Gaming & cloud leader Asia,Gemini Advanced
-2025-11-04 16:15:00+01:00,BUY,9988.HK,8,17.8196,142.5568,202.16089999999997,E-commerce & cloud China,Gemini Advanced
-2025-11-04 16:15:00+01:00,BUY,1810.HK,15,4.8662,72.993,129.16789999999997,Consumer electronics growth,Gemini Advanced
-2025-11-04 16:15:00+01:00,BUY,6758.T,4,24.3788,97.5152,31.65269999999998,Entertainment & tech diversification,Gemini Advanced
+2025-11-04 16:15:00+01:00,BUY,AMD,1.0,222.4795,222.4795,777.5205,Semiconductor/AI computing,Gemini Advanced
+2025-11-04 16:15:00+01:00,BUY,AMZN,1.0,221.3211,221.3211,556.1994,Cloud & e-commerce leader,Gemini Advanced
+2025-11-04 16:15:00+01:00,BUY,0700.HK,3.0,70.4939,211.4817,344.7177,Gaming & cloud leader Asia,Gemini Advanced
+2025-11-04 16:15:00+01:00,BUY,9988.HK,8.0,17.8196,142.5568,202.1609,E-commerce & cloud China,Gemini Advanced
+2025-11-04 16:15:00+01:00,BUY,1810.HK,15.0,4.8662,72.993,129.16789999999995,Consumer electronics growth,Gemini Advanced
+2025-11-04 16:15:00+01:00,BUY,6758.T,4.0,24.3788,97.5152,31.65269999999998,Entertainment & tech diversification,Gemini Advanced
+2025-11-04 16:30:21,SELL,6861.T,100.0,320.8119,32081.19,94.33,Verkauf schlechteste Position (-5.67%). Keyence Industrial Automation Schwäche. Freisetzung €94.33 für Reinvestition in US Tech.,Multi-Agent Analysis
